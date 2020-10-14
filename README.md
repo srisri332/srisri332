@@ -6,7 +6,8 @@
 
 I'm a computer developer who is passionate about writing code, solving problems, building software and socialising.
  
-- 📚 I’m a full-stack developer proficient in ReactJS, NodeJS, Express. 
+- 📚 I’m a full-stack developer proficient in ReactJS, NodeJS, Express.
+- :mortar_board: Currently learn to be a UI/UX designer.
 - :mag: I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kattukolu-srisri-reddy-30a65a172/) [Gmail](mailto:srisrireddy.k@gmail.com)
 
