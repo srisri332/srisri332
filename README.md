@@ -6,6 +6,7 @@
 <br>
 I'm a computer developer who is passionate about writing code, solving problems, building software and socialising.
  <br>
+ 
 - 📚 I’m a full-stack developer proficient in ReactJS, NodeJS, Express.
 - :mortar_board: Currently learning to be a UI/UX designer.
 - :mag: I’m looking for a software development internship. 
