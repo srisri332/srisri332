@@ -2,7 +2,7 @@
 <h2> Hey there! I'm SriSri. :v:</h2> 
 
 
-<img width="27%" height="70%" align="right" alt="Github" src="https://user-images.githubusercontent.com/58304531/95982908-63334e00-0e3e-11eb-8c59-09807a10aaea.jpg" />
+<img width="27%" height="70%" align="right" alt="Github" src="https://user-images.githubusercontent.com/58304531/96137327-289ee380-0f1a-11eb-8db1-afe9bea4a9aa.jpg" />
 <br>
 I'm a computer developer who is passionate about writing code, solving problems, building software and socialising.
  <br><br>
