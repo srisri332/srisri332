@@ -1,10 +1,8 @@
 
 <h2> Hey there! I'm SriSri. :v:</h2> 
 
-
-<img width="27%" height="70%" align="right" alt="Github" src="https://user-images.githubusercontent.com/58304531/96137327-289ee380-0f1a-11eb-8db1-afe9bea4a9aa.jpg" />
 <br>
-I'm a computer developer who is passionate about writing code, solving problems, building software and socialising.
+I'm a software developer who is passionate about writing code, solving problems, building software and socialising.
  <br><br>
  
 - 📚 I’m a full-stack developer.
