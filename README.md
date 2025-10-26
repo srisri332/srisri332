@@ -5,8 +5,6 @@ I'm a software developer who likes to code and build stuff.
  <br>
  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kattukolu-srisri-reddy-30a65a172/) [Gmail](mailto:srisrireddy.k@gmail.com)
-- :scroll: Check out my [Website](https://youthful-davinci-9a01c9.netlify.app/)
-
 
 
 
